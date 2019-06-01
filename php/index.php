@@ -122,7 +122,7 @@
     <div class="brand-text"><strong>Open</strong>Shift</div>
   </a>
   <h1>
-    PRÁCTICA 1: Creación y despliegue de una aplicación en un PaaS
+    PRÁCTICA 1: Creación y despliegue de una aplicación en un PaaS - mi git
   </h1>
   <h2>
     Infraestructura Virtual
